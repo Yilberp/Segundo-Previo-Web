@@ -1,0 +1,23 @@
+SMAP
+mostrarsiniestro_jsp.java
+JSP
+*S JSP
+*F
++ 0 mostrarsiniestro.jsp
+mostrarsiniestro.jsp
++ 1 header.html
+layout/header.html
++ 2 footer.html
+layout/footer.html
+*L
+5,14:53
+18,19:67
+1#1,43:86
+36#0,7:128
+43,7:136
+49,19:143
+68,18:163
+85,6:181
+1#2,8:187
+90#0,19:194
+*E

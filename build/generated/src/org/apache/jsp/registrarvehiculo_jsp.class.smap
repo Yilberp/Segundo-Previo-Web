@@ -1,0 +1,23 @@
+SMAP
+registrarvehiculo_jsp.java
+JSP
+*S JSP
+*F
++ 0 registrarvehiculo.jsp
+registrarvehiculo.jsp
++ 1 header.html
+layout/header.html
++ 2 footer.html
+layout/footer.html
+*L
+5,14:53
+18,15:67
+1#1,40:82
+32#0,13:121
+45,7:135
+51,15:142
+66,8:158
+73,13:166
+1#2,8:179
+85#0,18:186
+*E

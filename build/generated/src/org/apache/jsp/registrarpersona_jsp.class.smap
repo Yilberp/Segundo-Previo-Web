@@ -1,0 +1,19 @@
+SMAP
+registrarpersona_jsp.java
+JSP
+*S JSP
+*F
++ 0 registrarpersona.jsp
+registrarpersona.jsp
++ 1 header.html
+layout/header.html
++ 2 footer.html
+layout/footer.html
+*L
+5,11:50
+15,16:61
+1#1,43:77
+30#0,40:119
+1#2,8:159
+69#0,18:166
+*E
